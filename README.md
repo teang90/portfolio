@@ -6,13 +6,15 @@
 - **데이터베이스:** MongoDB, Altibase, PostgreSQL, Redis
 - **미들웨어:** Kafka, Apache Artemis, Apache Tomcat, Apache Nginx, Apache Httpd
 - **데브옵스:** Github, Docker, k8s, Linux
+
 ---
 
 ### 레거시 시스템 MSA 전환 (2024년)
 - https://github.com/teang90/RestructuringMSA
 
-### MSA 환경에서 Redis 이슈와 해결까지
+### MSA 환경에서 Redis 이슈(RedisCommandTimeout)와 해결까지
 - https://github.com/teang90/ImproveRedisAccess
+
 ---
 
 ### 주요 프로젝트
