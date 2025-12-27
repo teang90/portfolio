@@ -18,7 +18,7 @@
 ## 주요 프로젝트
 
 ### 2025년
-### 🛰 위성항법 시스템 중계 플랫폼 고도화
+### [위성항법 시스템 중계 플랫폼 고도화]
 **관련 기사**: https://www.asiae.co.kr/article/2025071009385268405  
 **기간**: 2025.08 ~ 2025.12  
 #### 기술 스택: Java 17, Spring Boot, Netty, PostgreSQL, MyBatis, Azure VM  
@@ -58,7 +58,7 @@
 
 ---
 ### 2024년
-### 위치 플랫폼 통합 및 컨테이너 환경의 MSA 전환
+### [위치 플랫폼 통합 및 컨테이너 환경의 MSA 전환]
 **기간**: 2024.01 ~ 2024.12  
 
 #### 기술 스택: Java 17, Spring Boot, Mybatis, MongoDB, Altibase, Redis Cluster, Apache Artemis, Kafka, Netty, Kubernetes, VM 환경 
